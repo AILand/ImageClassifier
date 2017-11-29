@@ -1,0 +1,13 @@
+c:\users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\bin\Debug\DogStancer.exe.config
+c:\users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\bin\Debug\DogStancer.exe
+c:\users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\bin\Debug\DogStancer.pdb
+c:\users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\obj\Debug\DogStancer.csprojResolveAssemblyReference.cache
+c:\users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\obj\Debug\DogStancer.Form1.resources
+c:\users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\obj\Debug\DogStancer.Properties.Resources.resources
+c:\users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\obj\Debug\DogStancer.csproj.GenerateResource.Cache
+c:\users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\obj\Debug\DogStancer.csproj.CoreCompileInputs.cache
+c:\users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\obj\Debug\DogStancer.exe
+c:\users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\obj\Debug\DogStancer.pdb
+C:\Users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\bin\Debug\HtmlAgilityPack.dll
+C:\Users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\black\documents\visual studio 2017\Projects\DogStancer\DogStancer\bin\Debug\HtmlAgilityPack.xml

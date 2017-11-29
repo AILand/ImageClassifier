@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Setting>
+    <ImagesFolder>C:\Data\New Dog Pictures\rolling</ImagesFolder>
+    <SortedImagesFolderBasePath>C:\Data\Sorted\Sorted3</SortedImagesFolderBasePath>
+    <ResizedImagesFolderBasePath>C:\Data\DogsSorted\DogsResized</ResizedImagesFolderBasePath>
+  </Setting>
+</SettingList>
